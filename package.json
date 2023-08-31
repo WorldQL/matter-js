@@ -66,5 +66,8 @@
     "src",
     "build",
     "CHANGELOG.md"
-  ]
+  ],
+  "volta": {
+    "node": "16.20.2"
+  }
 }
